@@ -1,0 +1,1 @@
+this is a dummy file to know how git conflicts rises when we do merging
